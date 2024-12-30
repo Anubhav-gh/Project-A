@@ -4,4 +4,4 @@ name: 'gcr.io/cloud-builders/gcloud'
       - 'storage'
       - 'cp'
       - 'index.html'
-      - 'gs://my-static-website-bucket-12345/index.html
+      - 'gs://my-static-website-bucket-12345/index.html 
