@@ -6,3 +6,6 @@ steps:
       - 'cp'
       - 'index.html'
       - 'gs://my-static-website-bucket-12345/index.html'
+options:
+  logging: CLOUD_LOGGING_ONLY
+timeout: '600s'
